@@ -87,7 +87,9 @@ Create a free account and sign in.
 
 Go to your Account Settings, then click the "API" tab.
 
-Request an API key (V3 Auth). It's an "Access Token" that is a very long string.
+And then click on the generate the new api key and fill the req form after that you will get your token key 
+
+ It's an "Access Token" that is a very long string.
 
 How to add your key:
 
